@@ -4,11 +4,11 @@
     <group android:checkableBehavior="single">
 
         <item android:id="@+id/item1"
-            android:title="item1"/>
+            android:title="profil"/>
         <item android:id="@+id/item2"
-            android:title="item1"/>
+            android:title="ustawienia"/>
         <item android:id="@+id/item3"
-            android:title="item1"/>
+            android:title="udostępnij"/>
         <item android:id="@+id/item4"
             android:title="item1"/>
     </group>
